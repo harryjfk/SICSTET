@@ -1,0 +1,715 @@
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+c:\users\harry\documents\visual studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+G:\Proyecto\SICSTET v1.0\SICSTET\bin\Debug\SICSTET.exe.config
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\SICSTET.exe
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\SICSTET.pdb
+G:\Proyecto\SICSTET v1.0\SICSTET\bin\Debug\SICSTET.exe
+G:\Proyecto\SICSTET v1.0\SICSTET\bin\Debug\SICSTET.pdb
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\SICSTET.MainForm.resources
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\ResGen.read.1.tlog
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\ResGen.write.1.tlog
+G:\Proyecto\SICSTET v1.0\SICSTET\obj\Debug\SICSTET.exe.licenses
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm1.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.exe.licenses
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.3\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+G:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.exe.licenses
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+H:\Proyecto\versiones\SICSTETv1.4\SICSTET\SICSTET\obj\Debug\SICSTET.exe.licenses
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\bin\Debug\SICSTET.exe.config
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.exe
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.pdb
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.MainForm.resources
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\ResGen.read.1.tlog
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\obj\Debug\ResGen.write.1.tlog
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\bin\Debug\SICSTET.exe
+H:\Proyecto\versiones\SICSTETv1.5\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.5\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.7\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+H:\Proyecto\versiones\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.8\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.9\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico_Bateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.10\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico_Bateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm2.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm2.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.15(mod)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm2.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.16\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm2.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.17\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm2.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\Copia SICSTETv1.17\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.XtraForm2.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.19\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.20(codificadores OK)\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.XtraReport1.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.21\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Reportes.ReportEq.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.22\SICSTET\SICSTET\obj\Debug\SICSTET.Reportes.ReportEqxMarka.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.23\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+E:\Proyecto\versiones\SICSTETv1.24(error report)\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+E:\Proyecto\versiones\SICSTETv1.24(error report)\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+E:\Proyecto\versiones\SICSTETv1.24(error report)\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.25\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmAutenticar.resources
+C:\Documents and Settings\Rosy\Escritorio\SICSTETv1.26\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipoPorLubricante.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmAutenticar.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipoPorLubricante.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmPProvincia.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyecto\versiones\SICSTETv1.27\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmAutenticar.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipoPorLubricante.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\bin\Debug\ACINOX.dll
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\bin\Debug\ACINOX.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\SICSTET\SICSTET\obj\Debug\SICSTET.FrmReport.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\bin\Debug\ACINOX.dll
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\bin\Debug\ACINOX.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmAutenticar.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipoPorLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.FrmReport.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.28\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\bin\Debug\ACINOX.dll
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\bin\Debug\ACINOX.pdb
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmAutenticar.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipoPorLubricante.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.FrmReport.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+E:\Proyecto\versiones\SICSTETv1.29\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\bin\Debug\SICSTET.exe
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\bin\Debug\SICSTET.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\bin\Debug\ACINOX.dll
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\bin\Debug\ACINOX.pdb
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmAutenticar.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmCausasDesint.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmDestinoLubRec.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEditEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEmpresa.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipoPorLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEstado.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmGrupo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmLubricante.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMarca.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmModelo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmMotivoCambio.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmNeumatico.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmProvincia.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmEquipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmBateria.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmRol.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmTipo.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Codificadores.FrmUsuario.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.FrmReport.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.MainForm.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Reporte.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\SICSTET.Properties.Resources.resources
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\csti\Escritorio\SICSTETv1.30\SICSTET\SICSTET\obj\Debug\ResGen.write.1.tlog
+D:\Proyecto\versiones\SICSTETv1.31\SICSTET\SICSTET\bin\Debug\SICSTET.exe.config
+D:\Proyecto\versiones\SICSTETv1.31\SICSTET\SICSTET\obj\Debug\SICSTET.exe
+D:\Proyecto\versiones\SICSTETv1.31\SICSTET\SICSTET\obj\Debug\SICSTET.pdb

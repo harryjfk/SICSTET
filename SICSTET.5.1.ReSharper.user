@@ -1,0 +1,112 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmNeumatico.cs" caret="2299" fromTop="12" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEditEquipo.cs" caret="1843" fromTop="15" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipo.cs" caret="2994" fromTop="10" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:Program.cs" caret="711" fromTop="23" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmAutenticar.cs" caret="799" fromTop="7" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipoPorLubricante.cs" caret="1152" fromTop="17" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="3874" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipo.cs" caret="927" fromTop="16" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipo.cs" caret="1333" fromTop="8" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipo.cs" caret="1424" fromTop="8" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipo.cs" caret="1784" fromTop="15" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="1382" fromTop="17" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="1382" fromTop="17" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="1402" fromTop="21" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmNeumatico.cs" caret="2073" fromTop="6" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmNeumatico.cs" caret="2222" fromTop="11" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEditEquipo.cs" caret="4682" fromTop="9" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEditEquipo.cs" caret="2959" fromTop="26" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEditEquipo.cs" caret="2080" fromTop="18" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipo.cs" caret="3935" fromTop="10" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:Program.cs" caret="736" fromTop="23" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmAutenticar.cs" caret="0" fromTop="22" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmAutenticar.cs" caret="1483" fromTop="22" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmAutenticar.cs" caret="1149" fromTop="16" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmAutenticar.cs" caret="1553" fromTop="10" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="4069" fromTop="22" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmAutenticar.cs" caret="0" fromTop="7" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipoPorLubricante.cs" caret="0" fromTop="16" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipoPorLubricante.cs" caret="931" fromTop="13" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/d:Codificadores/f:FrmEquipoPorLubricante.cs" caret="946" fromTop="16" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="3674" fromTop="11" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="3765" fromTop="11" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="3896" fromTop="15" />
+      <File id="BFD9A5F5-80F6-4862-821C-489ABA89DA2D/f:MainForm.cs" caret="4102" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="t_EquipoTableAdapter" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="CreateForm`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="t_UsuarioBindingSource" priority="1" />
+      <Item value="textEdit1" priority="0" />
+      <Item value="textEdit2" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="MainMenu`0" priority="0" />
+      <Item value="MainForm" priority="0" />
+      <Item value="Hide`0" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="fecha_CambioDateEdit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SICSTET.DSDatosTableAdapters.T_EquipoTableAdapter">
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SICSTET.Codificadores.FrmEquipo">
+      <Item value="dSDatos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SICSTET.DSDatos">
+      <Item value="T_Equipo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.BindingSource">
+      <Item value="Filter" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.TextEdit">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SICSTET.MainForm">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SICSTET.DSDatosTableAdapters.T_LubricanteTableAdapter">
+      <Item value="FillBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.DateEdit">
+      <Item value="EditValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SICSTET.Codificadores.FrmEquipoPorLubricante">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

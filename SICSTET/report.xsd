@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:mstns="http://tempuri.org/nwindDataSet.xsd" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" id="report" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=.\SQL2005;Initial Catalog=Sicstet;Persist Security Info=True;User ID=sa;Password=123456" IsAppSettingsProperty="false" Modifier="Assembly" ParameterPrefix="@" Provider="System.Data.SqlClient" Name="Connection" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TAdapter" Name="T" UserDataComponentName="TAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Connection" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT IDEquipo, IDTipoE, IDEstFisico, IDModelo, IDMarcaE, IDProvincia, IDEmpresa, IDGrupo, Matricula, No_serie, Anno_Fab, Capacidad, No_Motor, R_Contable, R_Vehiculo, Ind_ConsPlan, CombPlan, Tiene_Somaton, Fecha_Venc_Som, Tiene_LO, Tipo_LO, Fecha_Venc_LO, No_LO, IDComb, namemarca FROM dbo.T</CommandText>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="IDEquipo" DataSetColumn="IDEquipo" />
+              <Mapping SourceColumn="IDTipoE" DataSetColumn="IDTipoE" />
+              <Mapping SourceColumn="IDEstFisico" DataSetColumn="IDEstFisico" />
+              <Mapping SourceColumn="IDModelo" DataSetColumn="IDModelo" />
+              <Mapping SourceColumn="IDMarcaE" DataSetColumn="IDMarcaE" />
+              <Mapping SourceColumn="IDProvincia" DataSetColumn="IDProvincia" />
+              <Mapping SourceColumn="IDEmpresa" DataSetColumn="IDEmpresa" />
+              <Mapping SourceColumn="IDGrupo" DataSetColumn="IDGrupo" />
+              <Mapping SourceColumn="Matricula" DataSetColumn="Matricula" />
+              <Mapping SourceColumn="No_serie" DataSetColumn="No_serie" />
+              <Mapping SourceColumn="Anno_Fab" DataSetColumn="Anno_Fab" />
+              <Mapping SourceColumn="Capacidad" DataSetColumn="Capacidad" />
+              <Mapping SourceColumn="No_Motor" DataSetColumn="No_Motor" />
+              <Mapping SourceColumn="R_Contable" DataSetColumn="R_Contable" />
+              <Mapping SourceColumn="R_Vehiculo" DataSetColumn="R_Vehiculo" />
+              <Mapping SourceColumn="Ind_ConsPlan" DataSetColumn="Ind_ConsPlan" />
+              <Mapping SourceColumn="CombPlan" DataSetColumn="CombPlan" />
+              <Mapping SourceColumn="Tiene_Somaton" DataSetColumn="Tiene_Somaton" />
+              <Mapping SourceColumn="Fecha_Venc_Som" DataSetColumn="Fecha_Venc_Som" />
+              <Mapping SourceColumn="Tiene_LO" DataSetColumn="Tiene_LO" />
+              <Mapping SourceColumn="Tipo_LO" DataSetColumn="Tipo_LO" />
+              <Mapping SourceColumn="Fecha_Venc_LO" DataSetColumn="Fecha_Venc_LO" />
+              <Mapping SourceColumn="No_LO" DataSetColumn="No_LO" />
+              <Mapping SourceColumn="IDComb" DataSetColumn="IDComb" />
+              <Mapping SourceColumn="namemarca" DataSetColumn="namemarca" />
+            </Mappings>
+          </TableAdapter>
+        </Tables>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="report" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDEquipo" type="xs:int" />
+              <xs:element name="IDTipoE" type="xs:int" />
+              <xs:element name="IDEstFisico" type="xs:int" />
+              <xs:element name="IDModelo" type="xs:int" />
+              <xs:element name="IDMarcaE" type="xs:int" />
+              <xs:element name="IDProvincia" type="xs:int" />
+              <xs:element name="IDEmpresa" type="xs:int" />
+              <xs:element name="IDGrupo" type="xs:int" />
+              <xs:element name="Matricula">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="No_serie">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Anno_Fab" type="xs:int" />
+              <xs:element name="Capacidad" type="xs:int" />
+              <xs:element name="No_Motor" type="xs:int" />
+              <xs:element name="R_Contable" type="xs:boolean" minOccurs="0" />
+              <xs:element name="R_Vehiculo" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Ind_ConsPlan" type="xs:int" />
+              <xs:element name="CombPlan" type="xs:int" />
+              <xs:element name="Tiene_Somaton" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Fecha_Venc_Som" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Tiene_LO" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Tipo_LO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fecha_Venc_LO" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="No_LO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDComb" type="xs:int" />
+              <xs:element name="namemarca">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
